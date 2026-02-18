@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Carla 👋
 
-<!--
-**CarlaBarde/CarlaBarde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer science student passionate about software development.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔎 [Operational Research](https://github.com/MattiasGervilliers/RechercheOperationnelle)
+Python project solving shortest path problems using meta-heuristic algorithms.
+
+### 🌐 [Internship Search Website](https://github.com/CarlaBarde/projetWEB)
+Web platform that helps students find and manage internship opportunities.
+
+### 💬 [Brezzy](https://github.com/NicolasMineo13/projetBreezy)
+Microservices-based social network style web application.
+
+### 🌡 [CESIOT](https://github.com/CarlaBarde/cesiot)
+IoT project: door opening detection module connected to a web-based energy management dashboard.
+
+### 🌦 
